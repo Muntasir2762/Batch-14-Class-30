@@ -1,0 +1,24 @@
+
+1. getElementById()
+2. getElementsByClassName()
+3. getElementsByTag()
+4. querySelector()
+
+
+==========Event======
+
+1. onclick()
+2. onchange()
+3. onsubmit()
+4. onblur()
+5. onkeyup()
+6  onkeydown()
+7. onmouseover()
+
+====Convert string to number===
+
+parseInt('60')=> 60
+parseFloat('70.55')=> 70.55
+
+=======DOM=====
+Document Object Model
